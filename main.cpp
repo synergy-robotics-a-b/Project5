@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-#include BST.h
+#include BST.cpp
 
 int main()
 {
