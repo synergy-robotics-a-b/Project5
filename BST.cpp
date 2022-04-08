@@ -1,3 +1,5 @@
+#include utilities.cpp
+//Class BST, a Binary Search Tree code.
 class BST {
     int data;
     BST* left, * right;
